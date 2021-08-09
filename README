@@ -1,0 +1,6 @@
+<key>NSPhotoLibraryUsageDescription</key>
+            <String>This app requires access to the camera.</String>
+        <key>NSCameraUsageDescription</key>
+        <String>This app requires access to the camera.</String>
+        <key>NSMicrophoneUsageDescription</key>
+        <String>This app requires access to the camera.</String>
