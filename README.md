@@ -1,6 +1,6 @@
 # shop_directs
 
-A new Flutter application.
+A Fluuter application that enables user to find a listing for almost anything on electronics devices, food, used cars, personal ads, and a whole lot more.
 
 ## Getting Started
 
