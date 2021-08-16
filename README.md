@@ -2,8 +2,8 @@
 
 A Fluuter application that enables user to find a listing for almost anything on electronics devices, food, used cars, personal ads, and a whole lot more.
 
-## Getting Started
-
+## Screenshot
+![shop_directions](https://user-images.githubusercontent.com/71343707/129641332-fa3a6bb5-7e0c-4bd1-a544-0dccc5eeb88a.jpeg)
 
 ## Demo
 click the image to display the video of the demo app <br /> <br />
