@@ -7,7 +7,7 @@ A Fluuter application that enables user to find a listing for almost anything on
 
 ## Demo
 click the image to display the video of the demo app <br /> <br />
-[<img src="https://us.123rf.com/450wm/alexwhite/alexwhite1712/alexwhite171201244/92338574-demo-blue-silver-metallic-round-glossy-vector-icon-modern-design-web-and-mobile-applications-button.jpg?ver=6" width="200" height="400" />](https://streamable.com/ry1lm8)
+[<img src="https://us.123rf.com/450wm/alexwhite/alexwhite1712/alexwhite171201244/92338574-demo-blue-silver-metallic-round-glossy-vector-icon-modern-design-web-and-mobile-applications-button.jpg?ver=6" width="100" height="100" />](https://streamable.com/ry1lm8)
 
 
 # Features
